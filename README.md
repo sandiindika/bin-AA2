@@ -1,4 +1,15 @@
-# SISTEM PAKAR DIAGNOSIS PENYAKIT IBU HAMIL MENGGUNAKAN METODE FORWARD CHAINING DAN CERTAINTY FACTOR
+# Sistem Pakar Diagnosis Penyakit Ibu Hamil Menggunakan Metode Forward Chaining dan Certainty Factor
+
+## Gunakan Template
+
+- Fork dan Clone Repository
+```
+$ git clone https://github.com/sandiindika/4fun-AA2.git
+```
+- Masuk ke main repository
+```
+$ cd 4fun-AA2
+```
 
 ## Requirements
 
